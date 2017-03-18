@@ -1,2 +1,3 @@
-"# angular_pagination" 
-"# angular_pagination" 
+"# Npm Install"
+
+"# Npm start" 
