@@ -1,0 +1,21 @@
+{
+  "name": "angular1_pagination",
+  "version": "1.0.0",
+  "description": "here i show how you can use pagination with angular 1",
+  "main": "index.js",
+  "scripts": {
+   "start": "lite-server"
+  },
+  "keywords": [
+    "pagination",
+    "angular1"
+  ],
+  "author": "victor barbosa",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
